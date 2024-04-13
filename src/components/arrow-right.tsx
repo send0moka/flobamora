@@ -1,0 +1,18 @@
+export default function ArrowRight({ stroke }: { stroke: string }) {
+  return (
+    <svg
+      width="15"
+      height="14"
+      viewBox="0 0 15 14"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg">
+      <path
+        d="M8 1L14 7L8 13M13.1667 7H1"
+        stroke={stroke}
+        stroke-width="2"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+      />
+    </svg>
+  );
+}
