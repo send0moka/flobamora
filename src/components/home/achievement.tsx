@@ -57,28 +57,28 @@ export function Achievement() {
   const altEarth = t("earth-en");
   let srcEarth;
   if (altEarth === "earth-en") {
-    srcEarth = "https://raw.githubusercontent.com/sendomoka/flobamora/7b5edfeb299d4746d08b4b1509117f88b799330a/public/images/achievement/earth-en.png"
+    srcEarth = "https://raw.githubusercontent.com/send0moka/flobamora/7b5edfeb299d4746d08b4b1509117f88b799330a/public/images/achievement/earth-en.png"
   } else if (altEarth === "earth-id") {
-    srcEarth = "https://raw.githubusercontent.com/sendomoka/flobamora/7b5edfeb299d4746d08b4b1509117f88b799330a/public/images/achievement/earth-id.png"
+    srcEarth = "https://raw.githubusercontent.com/send0moka/flobamora/7b5edfeb299d4746d08b4b1509117f88b799330a/public/images/achievement/earth-id.png"
   }
   const altWave = t("wave-en");
   let srcWave;
   if (altWave === "wave-en") {
-    srcWave = "https://raw.githubusercontent.com/sendomoka/flobamora/7b5edfeb299d4746d08b4b1509117f88b799330a/public/images/achievement/wave-en.png"
+    srcWave = "https://raw.githubusercontent.com/send0moka/flobamora/7b5edfeb299d4746d08b4b1509117f88b799330a/public/images/achievement/wave-en.png"
   } else if (altWave === "wave-id") {
-    srcWave = "https://raw.githubusercontent.com/sendomoka/flobamora/7b5edfeb299d4746d08b4b1509117f88b799330a/public/images/achievement/wave-id.png"
+    srcWave = "https://raw.githubusercontent.com/send0moka/flobamora/7b5edfeb299d4746d08b4b1509117f88b799330a/public/images/achievement/wave-id.png"
   }
   const altLeaf = t("leaf-en");
   let srcLeaf;
   if (altLeaf === "leaf-en") {
-    srcLeaf = "https://raw.githubusercontent.com/sendomoka/flobamora/7b5edfeb299d4746d08b4b1509117f88b799330a/public/images/achievement/leaf-en.png"
+    srcLeaf = "https://raw.githubusercontent.com/send0moka/flobamora/7b5edfeb299d4746d08b4b1509117f88b799330a/public/images/achievement/leaf-en.png"
   } else if (altLeaf === "leaf-id") {
-    srcLeaf = "https://raw.githubusercontent.com/sendomoka/flobamora/7b5edfeb299d4746d08b4b1509117f88b799330a/public/images/achievement/leaf-id.png"
+    srcLeaf = "https://raw.githubusercontent.com/send0moka/flobamora/7b5edfeb299d4746d08b4b1509117f88b799330a/public/images/achievement/leaf-id.png"
   }
   return (
     <div class="h-screen flex flex-col lg:flex-row justify-center items-center mt-96 md:mt-[30rem] lg:mt-10">
       <div class="lg:w-1/2 flex justify-end lg:-translate-x-10 xl:-translate-x-32 scale-75 md:scale-100 lg:scale-75 xl:scale-100">
-        <img src="https://raw.githubusercontent.com/sendomoka/flobamora/7b5edfeb299d4746d08b4b1509117f88b799330a/public/images/achievement/komodo.png" alt="komodo" class="w-[30rem] h-fit z-0" />
+        <img src="https://raw.githubusercontent.com/send0moka/flobamora/7b5edfeb299d4746d08b4b1509117f88b799330a/public/images/achievement/komodo.png" alt="komodo" class="w-[30rem] h-fit z-0" />
         <motion.div
           style={{
             position: "absolute",
