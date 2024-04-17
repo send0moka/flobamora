@@ -21,7 +21,7 @@ const articles: article[] = [
     title: "5 Movies set in Beautiful East Nusa Tenggara",
     datePublished: "February 10, 2024",
     imgURL:
-      "https://raw.githubusercontent.com/send0moka/flobamora/7b5edfeb299d4746d08b4b1509117f88b799330a/public/images/Articles/5%20MOVIES%20SET%20IN%20BEAUTIFUL%20EAST%20NUSA%20TENGGARA/dok.%20Miles%20Films%20_%20Humba%20Dreams.jpeg",
+      "images/dok._Miles_Films___Humba_Dreams.jpeg",
     slug: "5-movies-set-in-beautiful-east-nusa-tenggara",
     source: "IDN TIMES",
     sourceURL: "https://www.idntimes.com/hype/entertainment/sandinugraha/rekomendasi-film-nusa-tenggara-timur-c1c2",
@@ -38,7 +38,7 @@ const articles: article[] = [
       {
         title: "1. Labuan Hati (2017)",
         imgURL:
-          "https://raw.githubusercontent.com/send0moka/flobamora/7b5edfeb299d4746d08b4b1509117f88b799330a/public/images/Articles/5%20MOVIES%20SET%20IN%20BEAUTIFUL%20EAST%20NUSA%20TENGGARA/dok.%20Lola%20Amaria%20Production%20%20Labuan%20Hati.jpeg",
+          "images/dok._Lola_Amaria_Production__Labuan_Hati.jpeg",
         credit: "dok. Lola Amaria Production Labuan Hati",
         description: [
           "\"Labuan Hati,\" a film released in 2017, unfolds its captivating narrative against the breathtaking backdrop of East Nusa Tenggara (NTT). As the story unfolds, viewers are treated to the mesmerizing beauty of the region, showcasing iconic destinations like Pulau Komodo and Pulau Flores. The film seamlessly integrates the enchanting landscapes of NTT into its plot, enhancing the emotional resonance of the characters and their journey. Labuan Hati not only serves as a cinematic experience but also as a visual love letter to the stunning natural wonders of East Nusa Tenggara, leaving the audience enchanted by both the compelling storyline and the picturesque locales.",
@@ -51,7 +51,7 @@ const articles: article[] = [
           "\"Labuan Hati,\" a film released in 2017, unfolds its captivating narrative against the breathtaking backdrop of East Nusa Tenggara (NTT). As the story unfolds, viewers are treated to the mesmerizing beauty of the region, showcasing iconic destinations like Pulau Komodo and Pulau Flores. The film seamlessly integrates the enchanting landscapes of NTT into its plot, enhancing the emotional resonance of the characters and their journey. Labuan Hati not only serves as a cinematic experience but also as a visual love letter to the stunning natural wonders of East Nusa Tenggara, leaving the audience enchanted by both the compelling storyline and the picturesque locales.",
         ],
         imgURL:
-          "https://raw.githubusercontent.com/send0moka/flobamora/7b5edfeb299d4746d08b4b1509117f88b799330a/public/images/Articles/5%20MOVIES%20SET%20IN%20BEAUTIFUL%20EAST%20NUSA%20TENGGARA/dok.%20Starvision%20Plus%20%20Susah%20Sinyal.jpeg",
+          "images/dok._Starvision_Plus__Susah_Sinyal.jpeg",
       },
       {
         title: "3. Humba Dreams (2018)",
@@ -60,7 +60,7 @@ const articles: article[] = [
           "\"Humba Dreams,\" released in 2018, is a cinematic ode to the cultural richness and natural splendor of East Nusa Tenggara. The film immerses viewers in the vibrant traditions and mesmerizing landscapes that define the region. From the intricate weaving of Sumba's traditional fabrics to the rhythmic beats of indigenous music, \"Humba Dreams\" provides a sensory feast for audiences. Against the backdrop of NTT's picturesque scenery, the movie invites viewers to explore the profound connection between the characters and their surroundings. Through its compelling narrative and breathtaking visuals, \"Humba Dreams\" succeeds in showcasing the allure of East Nusa Tenggara, leaving an indelible mark on the audience's hearts.",
         ],
         imgURL:
-          "https://raw.githubusercontent.com/send0moka/flobamora/7b5edfeb299d4746d08b4b1509117f88b799330a/public/images/Articles/5%20MOVIES%20SET%20IN%20BEAUTIFUL%20EAST%20NUSA%20TENGGARA/dok.%20Miles%20Films%20_%20Humba%20Dreams.jpeg",
+          "images/dok._Miles_Films___Humba_Dreams.jpeg",
       },
       {
         title: "4. Kulari Ke Pantai (2018)",
@@ -70,7 +70,7 @@ const articles: article[] = [
           "\"Kulari Ke Pantai,\" a film released in 2018, unfolds a heartfelt story against the stunning coastal landscapes of East Nusa Tenggara. The narrative follows the protagonist's journey as they embark on an adventure, with the pristine beaches of NTT serving as both a metaphorical and literal backdrop. The film captures the essence of the coastal communities, portraying the harmonious relationship between the characters and the vast ocean. Viewers are treated to breathtaking scenes of white sandy beaches, crystal-clear waters, and the warm hospitality of the local people. \"Kulari Ke Pantai\" not only tells a compelling tale of self-discovery but also invites the audience to fall in love with the coastal wonders of East Nusa Tenggara.",
         ],
         imgURL:
-          "https://raw.githubusercontent.com/send0moka/flobamora/7b5edfeb299d4746d08b4b1509117f88b799330a/public/images/Articles/5%20MOVIES%20SET%20IN%20BEAUTIFUL%20EAST%20NUSA%20TENGGARA/dok.%20Miles%20Films%20%20Kulari%20ke%20Pantai.jpeg",
+          "images/dok._Miles_Films__Kulari_ke_Pantai.jpeg",
       },
       {
         title: "5. Nona Manis Sayange (2023)",
@@ -80,7 +80,7 @@ const articles: article[] = [
           "These films collectively contribute to a growing cinematic repertoire that not only entertains but also celebrates the cultural and natural richness of East Nusa Tenggara. Through compelling narratives and breathtaking visuals, each movie invites viewers to immerse themselves in the enchanting landscapes and cultural tapestry that make NTT a truly remarkable destination.",
         ],
         imgURL:
-          "https://raw.githubusercontent.com/send0moka/flobamora/7b5edfeb299d4746d08b4b1509117f88b799330a/public/images/Articles/5%20MOVIES%20SET%20IN%20BEAUTIFUL%20EAST%20NUSA%20TENGGARA/dok.%20Putaar%20Film%20_%20Nona%20Manis%20Sayange.png",
+          "images/dok._Putaar_Film___Nona_Manis_Sayange.png",
       },
     ],
   },
@@ -88,7 +88,7 @@ const articles: article[] = [
     title: "Top 3 Best Beaches in East Nusa Tenggara",
     datePublished: "February 9, 2024",
     imgURL:
-      "https://raw.githubusercontent.com/send0moka/flobamora/7b5edfeb299d4746d08b4b1509117f88b799330a/public/images/Koka%20Beach/%40theouterislands.jpg",
+      "images/theouterislands.jpg",
     slug: "top-3-best-beaches-in-east-nusa-tenggara",
     source: "Liputan 6",
     sourceURL: "https://www.liputan6.com/regional/read/2606166/11-pantai-terindah-ntt-yang-memikat-mata-dan-hati?page=2",
@@ -104,7 +104,7 @@ const articles: article[] = [
           "Known as one of the hidden natural wonders, Pink Beach in East Nusa Tenggara offers a unique charm with its pink sand. This natural beauty is caused by a mixture of white sand and red coral grains carried by the waves. The clear sea water shows the underwater beauty with attractive coral reefs. Located on Komodo Island, Pink Beach is a magnet for divers and visitors looking for an unusual beach experience. With a stunning sunset panorama, Pink Beach ensures your holiday experience in East Nusa Tenggara is unforgettable.",
         ],
         imgURL:
-          "https://raw.githubusercontent.com/send0moka/flobamora/7b5edfeb299d4746d08b4b1509117f88b799330a/public/images/Pink%20Beach/Rivan%20Awal%20Lingga.jpeg",
+          "images/Rivan_Awal_Lingga.jpeg",
       },
       {
         title: "2. Koka Beach",
@@ -113,7 +113,7 @@ const articles: article[] = [
           "Hiding behind green hills and lush trees, Koka Beach is a hidden paradise in East Nusa Tenggara. This beach offers a stunning combination of clean white sand and calm blue sea water. Its natural beauty is further enriched by the presence of two green hills that hug the beach, creating a charming backdrop. Visitors can enjoy surfing, sunbathing, or just relaxing while enjoying the beautiful views at Koka Beach. This is the ideal place to escape the hustle and bustle of everyday life and experience the authentic tranquility of nature.",
         ],
         imgURL:
-          "https://raw.githubusercontent.com/send0moka/flobamora/7b5edfeb299d4746d08b4b1509117f88b799330a/public/images/Koka%20Beach/Christopher%20Moswitzer.jpg",
+          "images/Christopher_Moswitzer.jpg",
       },
       {
         title: "3. Padar Island Beach",
@@ -122,7 +122,7 @@ const articles: article[] = [
           "Padar Island, which is located in the Komodo National Park area, has hidden beauty on the eastern edge of Nusa Tenggara. The beaches around Padar Island offer soft white sand and clear sea water with stunning shades of blue and green. What makes it unique is the view from the top of Padar hill which shows an extraordinary panorama of three bays with white, black and pink sand. Climbing to the top is also an interesting adventure for visitors who want to enjoy the spectacular natural views of East Nusa Tenggara. The beaches on Padar Island present an alluring natural charm and are an unforgettable destination in this region.",
         ],
         imgURL:
-          "https://raw.githubusercontent.com/send0moka/flobamora/7b5edfeb299d4746d08b4b1509117f88b799330a/public/images/Padar%20Island/authentic%20indonesia.jpg",
+          "images/authentic_indonesia.jpg",
       },
     ],
   },
@@ -130,7 +130,7 @@ const articles: article[] = [
     title: "5 Reasons to Visit The Magnificent Komodo Island",
     datePublished: "February 8, 2024",
     imgURL:
-      "https://raw.githubusercontent.com/send0moka/flobamora/7b5edfeb299d4746d08b4b1509117f88b799330a/public/images/Komodo%20Island/Swandi%20Changra.jpg",
+      "images/Swandi_Changra.jpg",
     slug: "5-reasons-to-visit-the-magnificent-komodo-island",
     articleMainDescription: [
       "Nestled between Sumbawa and Flores islands within the East Nusatenggara province lies the expansive and remarkable Komodo National Park. Covering 29 volcanic islands, including the prominent Rinca, Padar, and Komodo, the park serves as a habitat for around 2,500 Komodo Dragons and diverse terrestrial fauna, including various reptile, bird, and mammal species. The park's topography is exceptionally varied, featuring mountainous slopes, tropical rainforests, grass-woodland savannah, and pristine sandy beaches that host a wealth of marine life. The marine ecosystem in Komodo Island ranks among the world's most abundant in flora and fauna, remaining relatively unexplored. Spanning 2,000 km2, incorporating protected land and water, the park holds global significance as a conservation priority, boasting a range of captivating natural attractions.",
@@ -148,7 +148,7 @@ const articles: article[] = [
           "Exclusive to the Komodo National Park and the surrounding Flores island, these Jurassic and majestic creatures stand as the park's star attraction. While witnessing them is awe-inspiring, visitors are strongly advised to maintain a safe distance and exercise caution. It is imperative to be accompanied by a ranger and adhere to all given instructions when in proximity to these potentially dangerous lizards, despite their seemingly docile appearance.",
         ],
         imgURL:
-          "https://raw.githubusercontent.com/send0moka/flobamora/7b5edfeb299d4746d08b4b1509117f88b799330a/public/images/Komodo%20Island/Abimanyu%20Photowork.jpg",
+          "images/Abimanyu_Photowork.jpg",
       },
       {
         title: "2. Pink Beach on Komodo Island",
@@ -159,7 +159,7 @@ const articles: article[] = [
           "Given that Komodo Island remains the habitat of Komodo Dragons, visitors are advised to exercise caution both on the beach and in the water. It is highly recommended to explore this area with an authorized guide or ranger for a safe and enriching experience.",
         ],
         imgURL:
-          "https://raw.githubusercontent.com/send0moka/flobamora/7b5edfeb299d4746d08b4b1509117f88b799330a/public/images/Pink%20Beach/Rivan%20Awal%20Lingga.jpeg",
+          "images/Rivan_Awal_Lingga.jpeg",
       },
       {
         title: "3. Climate and Geography",
@@ -168,7 +168,7 @@ const articles: article[] = [
           "The weather conditions within the Komodo Island represent some of the driest in Indonesia. With minimal to no rainfall for approximately 8 months of the year, the park is significantly affected by monsoonal rains. Throughout the dry season, spanning from May to October, daily temperatures typically hover around 40 degrees Celsius. This arid climate contributes to a rugged landscape marked by stony hills, and the variety of plant species is confined to grass, shrubs, orchids, and trees. In stark contrast, the marine environment boasts a vibrant and diverse scenery. Positioned within the Asia Pacific Coral Triangle, the national park is abundant with various seagrass beds, colorful coral reefs, and dense mangrove forests.",
         ],
         imgURL:
-          "https://raw.githubusercontent.com/send0moka/flobamora/7b5edfeb299d4746d08b4b1509117f88b799330a/public/images/Komodo%20Island/Deri%20Nazaroni.jpg",
+          "images/Deri_Nazaroni.jpg",
       },
       {
         title: "4. Komodo National Park",
@@ -177,7 +177,7 @@ const articles: article[] = [
           "Komodo National Park, a natural wonder in Indonesia, offers an unforgettable experience for its visitors. Located on the Komodo Islands, this national park is home to the Komodo lizard, an ancient animal that has become a national icon. Apart from the Komodo lizard, its natural beauty is unrivaled, with the islands offering exotic beaches, colorful coral reefs and spectacular underwater views. The adventure involves trekking on the islands to witness beautiful panoramic views, as well as diving or snorkeling to explore the rich underwater life. Komodo National Park exudes enchanting natural charm and offers a memorable tourist experience in the heart of Indonesia's biodiversity.",
         ],
         imgURL:
-          "https://raw.githubusercontent.com/send0moka/flobamora/7b5edfeb299d4746d08b4b1509117f88b799330a/public/images/Articles/5%20REASONS%20TO%20VISIT%20THE%20MAGNIFICENT%20KOMODO%20ISLAND/Amos%20Chapple.jpg",
+          "images/5_REASONS_TO_VISIT_THE_MAGNIFICENT_Amos_Chapple.jpg",
       },
       {
         title: "5. Land and Marine Fauna",
@@ -188,7 +188,7 @@ const articles: article[] = [
           "Underwater, the marine fauna showcases remarkable diversity, comprising over 1,000 fish species, 70 sponge varieties, 10 dolphin species, 6 whale species, dugongs, green turtles, various shark species, large manta rays, stingrays, marine reptiles, crustaceans, and sporadically migrating whales.",
         ],
         imgURL:
-          "https://raw.githubusercontent.com/send0moka/flobamora/7b5edfeb299d4746d08b4b1509117f88b799330a/public/images/Articles/5%20REASONS%20TO%20VISIT%20THE%20MAGNIFICENT%20KOMODO%20ISLAND/wonderful%20indonesia.jpg",
+          "images/5_REASONS_TO_VISIT_THE_MAGNIFICENT_wonderful_indonesia.jpg",
       },
     ],
   },
@@ -196,7 +196,7 @@ const articles: article[] = [
     title: "Dive into the Beauty of the Riung 17 Island ",
     datePublished: "February 7, 2024",
     imgURL:
-      "https://raw.githubusercontent.com/send0moka/flobamora/7b5edfeb299d4746d08b4b1509117f88b799330a/public/images/Articles/DIVE%20INTO%20THE%20BEAUTY%20OF%20THE%20RIUNG%2017%20ISLAND/danaanandrew.jpg",
+      "images/danaanandrew.jpg",
     slug: "dive-into-the-beauty-of-the-riung-17-island",
     articleMainDescription: [
       "Riung 17 Island, nestled in the heart of East Nusa Tenggara, is a hidden gem that promises an enchanting underwater world waiting to be explored. As you submerge into the crystal-clear waters, a mesmerizing dance of sea anemones welcomes you. What appears to be a waving sea rose is, in fact, a collection of giant clam eggs delicately bound by mucous, creating a vibrant crimson spectacle.",
@@ -212,7 +212,7 @@ const articles: article[] = [
     title: "Chasing Sunrise in the Sky of Three Colored Lakes",
     datePublished: "February 6, 2024",
     imgURL:
-      "https://raw.githubusercontent.com/send0moka/flobamora/7b5edfeb299d4746d08b4b1509117f88b799330a/public/images/Articles/CHASING%20SUNRISE%20IN%20THE%20SKY%20OF%20THE%20THREE%20COLORED%20LAKES/commons.wikimedia.org.jpg",
+      "images/commons.wikimedia.org.jpg",
     slug: "chasing-sunrise-in-the-sky-of-three-colored-lakes",
     articleMainDescription: [
       "The Tale of Kelimutu's Three-Color Lake in Ende Regency, East Nusa Tenggara Province, Captivates Travelers from Abroad and Throughout the Archipelago, Including Locals on Flores Island.",
@@ -239,7 +239,7 @@ const articles: article[] = [
           "As known, travel agencies and tour guides in Flores, Bali, and Jakarta have incorporated Kelimutu Lake as a favorite destination in Flores Island. From West Flores to East Flores and vice versa, they sell travel packages to Kelimutu Lake. This represents the natural and lake tourism heritage in Flores Island, East Nusa Tenggara.",
         ],
         imgURL:
-          "https://raw.githubusercontent.com/send0moka/flobamora/7b5edfeb299d4746d08b4b1509117f88b799330a/public/images/Articles/CHASING%20SUNRISE%20IN%20THE%20SKY%20OF%20THE%20THREE%20COLORED%20LAKES/bloodydirtyboots.wordpress.com.jpg",
+          "images/bloodydirtyboots.wordpress.com.jpg",
       },
     ],
   },
@@ -247,7 +247,7 @@ const articles: article[] = [
     title: "Why is the sand of Pink Beach in NTT pink?",
     datePublished: "February 5, 2024",
     imgURL:
-      "https://raw.githubusercontent.com/send0moka/flobamora/7b5edfeb299d4746d08b4b1509117f88b799330a/public/images/Articles/WHY%20IS%20THE%20SAND%20OF%20PINK%20BEACH%20IN%20NTT%20PINK_/Agung%20Adit.jpg",
+      "images/Agung_Adit.jpg",
     slug: "why-is-the-sand-of-pink-beach-in-ntt-pink",
     articleMainDescription: [
       "One of the must-visit attractions for tourists in Komodo National Park (KNP), West Manggarai Regency, Flores, East Nusa Tenggara, is the Pink Beach. Beyond offering views of the beautiful and crystal-clear blue sea, the stretch of pink-hued sand is the distinctive allure of Pink Beach.",
@@ -260,7 +260,7 @@ const articles: article[] = [
     body: [
       {
         imgURL:
-          "https://raw.githubusercontent.com/send0moka/flobamora/7b5edfeb299d4746d08b4b1509117f88b799330a/public/images/Articles/WHY%20IS%20THE%20SAND%20OF%20PINK%20BEACH%20IN%20NTT%20PINK_/Fiqih%20Alfarish.jpg",
+          "images/Fiqih_Alfarish.jpg",
         credit: "Fiqih Alfarish",
         description: [
           "Foram has a slightly orange or coral hue, which then mixes with the beach sand. As a result, the sand at Pink Beach takes on a pinkish color.",
@@ -274,7 +274,7 @@ const articles: article[] = [
     title: "Wae Rebo Village: Beautiful Indonesian Village",
     datePublished: "February 4, 2024",
     imgURL:
-      "https://raw.githubusercontent.com/send0moka/flobamora/7b5edfeb299d4746d08b4b1509117f88b799330a/public/images/Articles/WAE%20REBO%20VILLAGE_%20BEAUTIFUL%20TRADISIONAL%20INDONESIAN%20VILLAGE/Aniq%20Lubabul.jpg",
+      "images/Aniq_Lubabul.jpg",
     slug: "wae-rebo-village-beautiful-indonesian-village",
     articleMainDescription: [
       "Situated at an altitude of 1,200 meters above sea level, Wae Rebo Village in Flores resembles a paradise above the clouds. While reaching this destination requires effort, the reward upon arrival is truly equivalent to the journey taken. The breathtaking natural scenery, with mountains blending seamlessly with seven cone-shaped traditional houses, leaves a unique impression on every visitor who has ventured to Wae Rebo Village.",
@@ -287,7 +287,7 @@ const articles: article[] = [
     body: [
       {
         imgURL:
-          "https://raw.githubusercontent.com/send0moka/flobamora/7b5edfeb299d4746d08b4b1509117f88b799330a/public/images/Articles/WAE%20REBO%20VILLAGE_%20BEAUTIFUL%20TRADISIONAL%20INDONESIAN%20VILLAGE/Wirestock%20Creators.jpg",
+          "imagesWirestock_Creators.jpg",
         credit: "Wirestock Creators",
         description: [
           "To reach Denge, visitors can opt for motorcycle taxis (ojek) or wooden trucks, usually available at Terminal Mena operating from 09:00 to 10:00. For a more budget-friendly choice, the wooden trucks are recommended, though they don't operate every day.",

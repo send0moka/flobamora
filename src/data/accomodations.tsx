@@ -14,11 +14,11 @@ const accomodations: accomodation[] = [
         title: "Menjaga Bay",
         address: "Kampung Menjaga, Macang Tanggar, Labuan Bajo, Indonesia, 86763",
         imgURL: [
-            "https://raw.githubusercontent.com/send0moka/flobamora/f749e611b9ab9e0ecba75e9a71f3e3ab7e4ac628/public/temp/1menjaga.webp",
-            "https://raw.githubusercontent.com/send0moka/flobamora/f749e611b9ab9e0ecba75e9a71f3e3ab7e4ac628/public/temp/2menjaga.webp",
-            "https://raw.githubusercontent.com/send0moka/flobamora/f749e611b9ab9e0ecba75e9a71f3e3ab7e4ac628/public/temp/3menjaga.webp",
-            "https://raw.githubusercontent.com/send0moka/flobamora/f749e611b9ab9e0ecba75e9a71f3e3ab7e4ac628/public/temp/4menjaga.jpg",
-            "https://raw.githubusercontent.com/send0moka/flobamora/f749e611b9ab9e0ecba75e9a71f3e3ab7e4ac628/public/temp/5menjaga.jpg"
+            "images/1menjaga.webp",
+            "images/2menjaga.webp",
+            "images/3menjaga.webp",
+            "images/4menjaga.jpg",
+            "images/5menjaga.jpg"
         ],
         desc: "Get your trip off to a great start with a stay at this property, which offers free Wi-Fi in all rooms. Strategically situated in Macang Tanggar, allowing you access and proximity to local attractions and sights. Don't leave before paying a visit to the famous Komodo Airport. Rated with 5 stars, this high-quality property provides guests with access to massage, restaurant and outdoor pool on-site.",
         source: "Agoda",
@@ -30,11 +30,11 @@ const accomodations: accomodation[] = [
         title: "Zasgo Hotel",
         address: "Jalan Soekarno Hatta, Labuan Bajo, Labuan Bajo, Indonesia, 86763",
         imgURL: [
-            "https://raw.githubusercontent.com/send0moka/flobamora/f749e611b9ab9e0ecba75e9a71f3e3ab7e4ac628/public/temp/zasgo1.webp",
-            "https://raw.githubusercontent.com/send0moka/flobamora/f749e611b9ab9e0ecba75e9a71f3e3ab7e4ac628/public/temp/zasgo2.webp",
-            "https://raw.githubusercontent.com/send0moka/flobamora/f749e611b9ab9e0ecba75e9a71f3e3ab7e4ac628/public/temp/zasgo3.webp",
-            "https://raw.githubusercontent.com/send0moka/flobamora/f749e611b9ab9e0ecba75e9a71f3e3ab7e4ac628/public/temp/zasgo4.webp",
-            "https://raw.githubusercontent.com/send0moka/flobamora/f749e611b9ab9e0ecba75e9a71f3e3ab7e4ac628/public/temp/zasgo5.webp"
+            "images/zasgo1.webp",
+            "images/zasgo2.webp",
+            "images/zasgo3.webp",
+            "images/zasgo4.webp",
+            "images/zasgo5.webp"
         ],
         desc: "The car parking and the Wi-Fi are always free, so you can stay in touch and come and go as you please. Strategically situated in Labuan Bajo, allowing you access and proximity to local attractions and sights. Don't leave before paying a visit to the famous Komodo Airport. This 4-star property features restaurant to make your stay more indulgent and memorable.",
         source: "Agoda",
@@ -46,11 +46,11 @@ const accomodations: accomodation[] = [
         title: "AYANA Komodo Waecicu Beach",
         address: "Pantai Waecicu, Labuan Bajo, Manggarai Barat, Nusa Tenggara Timur, Indonesia, 86554",
         imgURL: [
-            "https://raw.githubusercontent.com/send0moka/flobamora/f749e611b9ab9e0ecba75e9a71f3e3ab7e4ac628/public/temp/ayana1.webp",
-            "https://raw.githubusercontent.com/send0moka/flobamora/f749e611b9ab9e0ecba75e9a71f3e3ab7e4ac628/public/temp/ayana2.webp",
-            "https://raw.githubusercontent.com/send0moka/flobamora/f749e611b9ab9e0ecba75e9a71f3e3ab7e4ac628/public/temp/ayana3.webp",
-            "https://raw.githubusercontent.com/send0moka/flobamora/f749e611b9ab9e0ecba75e9a71f3e3ab7e4ac628/public/temp/ayana4.webp",
-            "https://raw.githubusercontent.com/send0moka/flobamora/f749e611b9ab9e0ecba75e9a71f3e3ab7e4ac628/public/temp/ayana5.webp"
+            "images/ayana1.webp",
+            "images/ayana2.webp",
+            "images/ayana3.webp",
+            "images/ayana4.webp",
+            "images/ayana5.webp"
         ],
         desc: "World-class Luxury with Gracious Indonesian Hospitality at Labuan Bajo Hotel. A perfectly balanced retreat sanctuary welcomes you to the heart of Komodo National Park. Experience and create lasting memories in the lap of luxury with state-of-the-art facilities and services while surrounded by unparalleled natural beauty at the best 5-star hotel in Labuan Bajo, AYANA Komodo Resort. Do you long for a private break-away where your thoughts can roam while kayaking around the Labuan Bajo Resort to a private island? Or do you want to mingle with otherguests and create wonderful new friendships on our bustling 250m long private jetty? The Labuan Bajo Hotel has what you need—and so much more.",
         source: "Traveloka",
@@ -62,11 +62,11 @@ const accomodations: accomodation[] = [
         title: "Loccal Collection Hotel Komodo",
         address: "Jl. Raya Binongko -  Kelurahan Labuan Bajo, Manggarai Barat - Nusa enggara Timur, Labuan Bajo, Manggarai Barat, Nusa Tenggara Timur, Indonesia, 86754",
         imgURL: [
-            "https://raw.githubusercontent.com/send0moka/flobamora/f749e611b9ab9e0ecba75e9a71f3e3ab7e4ac628/public/temp/loccal1.webp",
-            "https://raw.githubusercontent.com/send0moka/flobamora/f749e611b9ab9e0ecba75e9a71f3e3ab7e4ac628/public/temp/loccal2.webp",
-            "https://raw.githubusercontent.com/send0moka/flobamora/f749e611b9ab9e0ecba75e9a71f3e3ab7e4ac628/public/temp/loccal3.webp",
-            "https://raw.githubusercontent.com/send0moka/flobamora/f749e611b9ab9e0ecba75e9a71f3e3ab7e4ac628/public/temp/loccal4.webp",
-            "https://raw.githubusercontent.com/send0moka/flobamora/f749e611b9ab9e0ecba75e9a71f3e3ab7e4ac628/public/temp/loccal5.webp"
+            "images/loccal1.webp",
+            "images/loccal2.webp",
+            "images/loccal3.webp",
+            "images/loccal4.webp",
+            "images/loccal5.webp"
         ],
         desc: "Not only located within easy reach of various places of interests for your adventure, but staying at Loccal Collection Hotel Komodo will also give you a pleasant stay. This hotel is the perfect choice for couples seeking a romantic getaway or a honeymoon retreat. Enjoy the most memorable nights with your loved one by staying at Loccal Collection Hotel Komodo. Spa treatment is one of the main features of the hotel. Pamper yourself with the relaxing treatment that rejuvenates you.",
         source: "Traveloka",
@@ -78,11 +78,11 @@ const accomodations: accomodation[] = [
         title: "Meruorah Komodo Labuan Bajo",
         address: "Kawasan Marina Labuan Bajo, Jalan Soekarno Hatta, Labuan Bajo - Manggarai Barat, NTT 86711 Indonesia",
         imgURL: [
-            "https://raw.githubusercontent.com/send0moka/flobamora/f749e611b9ab9e0ecba75e9a71f3e3ab7e4ac628/public/temp/meruorah1.webp",
-            "https://raw.githubusercontent.com/send0moka/flobamora/f749e611b9ab9e0ecba75e9a71f3e3ab7e4ac628/public/temp/meruorah2.webp",
-            "https://raw.githubusercontent.com/send0moka/flobamora/f749e611b9ab9e0ecba75e9a71f3e3ab7e4ac628/public/temp/meruorah3.webp",
-            "https://raw.githubusercontent.com/send0moka/flobamora/f749e611b9ab9e0ecba75e9a71f3e3ab7e4ac628/public/temp/meruorah4.webp",
-            "https://raw.githubusercontent.com/send0moka/flobamora/f749e611b9ab9e0ecba75e9a71f3e3ab7e4ac628/public/temp/meruorah5.webp"
+            "images/meruorah1.webp",
+            "images/meruorah2.webp",
+            "images/meruorah3.webp",
+            "images/meruorah4.webp",
+            "images/meruorah5.webp"
         ],
         desc: "Meruorah Komodo Labuan Bajo is a hotel near Airport, an ideal accommodation while waiting for your next flight. Enjoy a satisfying place to rest during your transit.From business event to corporate gathering, Meruorah Komodo Labuan Bajo provides complete services and facilities that you and your colleagues need.Whether you are planning an event or other special occasions, Meruorah Komodo Labuan Bajo is a great choice for you with a large and well-equipped function room to suit your requirements.",
         source: "Traveloka",
@@ -94,11 +94,11 @@ const accomodations: accomodation[] = [
         title: "Sudamala Resort",
         address: "Jl. Pantai Pede, Km. 3, Gorontalo, Labuan Bajo, Labuan Bajo, Manggarai Barat, Nusa Tenggara Timur, Indonesia, 86554",
         imgURL: [
-            "https://raw.githubusercontent.com/send0moka/flobamora/f749e611b9ab9e0ecba75e9a71f3e3ab7e4ac628/public/temp/sudamala1.webp",
-            "https://raw.githubusercontent.com/send0moka/flobamora/f749e611b9ab9e0ecba75e9a71f3e3ab7e4ac628/public/temp/sudamala2.webp",
-            "https://raw.githubusercontent.com/send0moka/flobamora/f749e611b9ab9e0ecba75e9a71f3e3ab7e4ac628/public/temp/sudamala3.webp",
-            "https://raw.githubusercontent.com/send0moka/flobamora/f749e611b9ab9e0ecba75e9a71f3e3ab7e4ac628/public/temp/sudamala4.webp",
-            "https://raw.githubusercontent.com/send0moka/flobamora/f749e611b9ab9e0ecba75e9a71f3e3ab7e4ac628/public/temp/sudamala5.webp"
+            "images/sudamala1.webp",
+            "images/sudamala2.webp",
+            "images/sudamala3.webp",
+            "images/sudamala4.webp",
+            "images/sudamala5.webp"
         ],
         desc: "Whether you are planning an event or other special occasions, Sudamala Resort, Komodo, Labuan Bajo is a great choice for you with a large and well-equipped function room to suit your requirements. This resort is the perfect choice for couples seeking a romantic getaway or a honeymoon retreat. Enjoy the most memorable nights with your loved one by staying at Sudamala Resort, Komodo, Labuan Bajo. Sudamala Resort, Komodo, Labuan Bajo is the splendid choice for you who are seeking a luxurious treat for your holiday. Get pampered with the most excellent services and make your holiday memorable by staying here.",
         source: "Traveloka",

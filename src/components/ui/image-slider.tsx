@@ -56,7 +56,7 @@ export const ImagesSlider = ({
         setLoadedImages(loadedImages as string[]);
         setLoading(false);
       })
-      .catch((error) => console.error("Failed to load images", error));
+      .catch((error) => console.error("Failed to load images", error, images));
   };
   useEffect(() => {
     const handleKeyDown = (event: KeyboardEvent) => {

@@ -5,9 +5,9 @@ import "@fontsource/dela-gothic-one";
 
 export function Hero() {
   const images = [
-    "https://raw.githubusercontent.com/send0moka/flobamora/7b5edfeb299d4746d08b4b1509117f88b799330a/public/images/Padar%20Island/Denissa%20Devy.jpg",
-    "https://raw.githubusercontent.com/send0moka/flobamora/7b5edfeb299d4746d08b4b1509117f88b799330a/public/images/Padar%20Island/Fajruddin%20Mudzakkir.jpg",
-    "https://raw.githubusercontent.com/send0moka/flobamora/7b5edfeb299d4746d08b4b1509117f88b799330a/public/images/Komodo%20Island/Iqx%20Azmi.jpg",
+    "images/Denissa_Devy.jpg",
+    "images/Fajruddin_Mudzakkir.jpg",
+    "images/Iqx_Azmi.jpg",
   ];
   const { t } = useTranslation();
   const title = t("Explore the enchanting islands of NTT");

@@ -14,7 +14,7 @@ export default function Articles() {
           "min-h-[500px] bg-cover bg-center bg-no-repeat w-full flex flex-col justify-center items-center text-center gap-10 px-3"
         }
         style={{
-          backgroundImage: `url('https://raw.githubusercontent.com/send0moka/flobamora/7b5edfeb299d4746d08b4b1509117f88b799330a/public/images/Articles/5%20REASONS%20TO%20VISIT%20THE%20MAGNIFICENT%20KOMODO%20ISLAND/Deri%20Nazaroni.jpg')`,
+          backgroundImage: `url('imagesDeri_Nazaroni.jpg')`,
         }}>
         <h1
           className={
@@ -37,7 +37,7 @@ export default function Articles() {
           {/* Featured */}
           <div className={"grid md:grid-cols-2 grid-flow-row gap-7 hover:translate-y-1 transition-transform duration-300"}>
             <img
-              src="https://raw.githubusercontent.com/send0moka/flobamora/7b5edfeb299d4746d08b4b1509117f88b799330a/public/images/Articles/5%20MOVIES%20SET%20IN%20BEAUTIFUL%20EAST%20NUSA%20TENGGARA/dok.%20Miles%20Films%20_%20Humba%20Dreams.jpeg"
+              src="images/dok._Miles_Films___Humba_Dreams.jpeg"
               alt=""
               className={"object-cover rounded-lg"}
             />

@@ -8,7 +8,7 @@ export default function GetToKnow() {
       className={"w-full h-screen left-0 bg-cover bg-center"}
       style={{
         backgroundImage:
-          "url('https://raw.githubusercontent.com/send0moka/flobamora/7b5edfeb299d4746d08b4b1509117f88b799330a/public/images/Padar%20Island/Wendy%20Stevian.jpg')",
+          "url('images/Wendy_Stevian.jpg')",
       }}>
       <div
         className={
