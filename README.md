@@ -1,60 +1,59 @@
-# Flobamora
+<h1 align="center">Welcome to Flobamora!<img src="https://raw.githubusercontent.com/send0moka/send0moka/main/wave.gif" width="26"></h1>
 
-[![Vite](https://img.shields.io/badge/Vite-2.0.0-646CFF?style=flat-square&logo=vite)](https://vitejs.dev)
-[![Preact](https://img.shields.io/badge/Preact-10.5.13-673AB8?style=flat-square&logo=preact)](https://preactjs.com)
-[![TypeScript](https://img.shields.io/badge/TypeScript-4.3.5-3178C6?style=flat-square&logo=typescript)](https://www.typescriptlang.org)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-2.2.19-38B2AC?style=flat-square&logo=tailwind-css)](https://tailwindcss.com)
-[![pnpm](https://img.shields.io/badge/pnpm-6.7.1-FF6D5A?style=flat-square&logo=pnpm)](https://pnpm.io)
-[![i18next](https://img.shields.io/badge/i18next-20.3.1-FF6D5A?style=flat-square&logo=i18next)](https://www.i18next.com)
-[![React Router](https://img.shields.io/badge/React%20Router-6.0.0-CA4245?style=flat-square&logo=react-router)](https://reactrouter.com)
+[![](/public/images/demo.gif)](https://flobamora.vercel.app)
 
+<p align="center">
+  <a href="#about">About</a> •
+  <a href="#features">Features</a> •
+  <a href="#install">Install</a> •
+  <a href="#license">License</a>
+</p>
 
-Flores, Sumba, Timor, and Alor (Flobamora) is a region in the eastern part of Indonesia. This project is a web application that aims to promote tourism in the Flobamora region. This project is built using Vite, Preact, and Tailwind CSS. The project is still under development and is not yet ready for production use.
+[![](https://raw.githubusercontent.com/amertadev/analista101/main/public/assets/demo-button.svg)](https://flobamora.vercel.app)
 
-## Getting Started
+<h2 id="about">🔍 About</h2>
 
-1. Clone this repository:
+Flobamora is a website that aims to promote and showcase the diverse and captivating tourist attractions and experiences found in the province of East Nusa Tenggara, Indonesia. Flobamora stands for Flores, Sumba, Timor, and Alor.
 
-   ```bash
-   git clone https://github.com/sendomoka/flobamora.git
-    ```
+<img src="public/svgs/tech.svg" height="24">
 
-2. Navigate to the project directory:
+<h2 id="features">✨ Features</h2>
 
-   ```bash
+- Language ID/EN
+- Achievement
+- Analytics Time, Temperature, Visited Last Year
+- Search
+- Articles
+- Accommodations
+
+<h2 id="install">🔌 Install</h2>
+
+Before cloning the repository, you need to install the following:
+
+- Node.js and a package manager (like bun, npm, pnpm, or yarn).
+- An internet browser (such as Brave, Firefox, Arc, or Chrome).
+
+To clone the repository, follow these steps:
+
+1. Open your terminal.
+2. Navigate to the directory where you want to clone the repository.
+3. Run the following command:
+   ```
+   git clone https://github.com/send0moka/flobamora.git
+   ```
+4. After the cloning process is complete, navigate to the cloned repository directory:
+   ```
    cd flobamora
    ```
-
-3. Install the dependencies:
-
-   ```bash
-    pnpm install
+5. Now, you are ready to work on the project. To install dependencies, run:
+   ```
+   bun install
+   ```
+6. To start the development server, use:
+   ```
+   bun run dev
    ```
 
-4. Start the development server:
+<h2 id="license">🔰 License</h2>
 
-   ```bash
-    pnpm run dev
-    ```
-
-5. Open the development server in your browser:
-
-   ```bash
-   open http://localhost:5173
-   ```
-
-## Roadmap
-
-- [x] Theme
-- [x] Language ID/EN
-- [x] Responsive
-- [x] Home - Hero
-- [x] Home - Infinite Moving Card Place
-- [x] Home - Achievement
-- [x] Home - Featuring Article
-- [x] Home - NTT Place Map
-- [x] Footer - Social Media & FAQ
-- [x] Footer - Analytics Time, Temperature, Visited Last Year
-- [x] Header - Search
-- [x] Articles (Nav)
-- [x] Accommodations (Nav)
+Copyright © 2024 [@send0moka](https://github.com/send0moka/) & [@bintangyosua](https://github.com/bintangyosua/) & [@dzakwanIrfan](https://github.com/dzakwanIrfan/). This project is open-source licensed under the MIT License.
